@@ -71,10 +71,3 @@ Built at Amjad Watan: an AI photo booth that turns a visitor's photo into a port
 | 🥉 | **3rd Place**, Satthon 2 satellite tracking competition |
 | 🥉 | **3rd Place**, National Summer Robotics Championship (Fast Track) |
 | 🧠 | **MS SmartScan**, exhibited at World Day for Safety & Health at Work 2026 and Healthon 2026 |
-
----
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=marwathebest&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=0F766E" alt="GitHub stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marwathebest&layout=compact&theme=transparent&hide_border=true&title_color=2563EB" alt="Top languages"/>
-</p>
