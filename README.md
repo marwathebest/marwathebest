@@ -50,7 +50,7 @@ Built at Amjad Watan: an AI photo booth that turns a visitor's photo into a port
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs_&_Prompting-412991?style=flat-square&logoColor=white)
+![Prompting](https://img.shields.io/badge/LLMs_&_Prompting-412991?style=flat-square&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
