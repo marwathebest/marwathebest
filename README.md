@@ -8,6 +8,15 @@
 </p>
 
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/marwah-dark.svg" />
+    <img src="assets/marwah-light.svg" width="680" alt="marwah.ts: loves the web and AI; builds full-stack web apps and AI solutions" />
+  </picture>
+</p>
+
+---
+
 ### 🚀 Projects
 
 #### 🧠 [MS SmartScan](https://github.com/MS-SmartScan-Project/Healthon-MS-Project)
