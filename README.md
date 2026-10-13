@@ -7,19 +7,6 @@
   <a href="mailto:marwahsabei@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-```ts
-const marwah = {
-  loves: ["the web", "AI"],
-  role: "Innovation & Technology Intern",
-  at: "Amjad Watan",
-  study: "Web Programming & Development, Digital Technical College ('27)",
-  stack: ["React", "Node.js", "PHP", "SQL"],
-  ai: ["LLMs", "YOLO", "Computer Vision"],
-  qualifiedFor: ["VEX Worlds 2026 (USA)", "RoboRAVE International (Japan)"],
-};
-```
-
----
 
 ### 🚀 Projects
 
