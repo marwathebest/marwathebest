@@ -32,7 +32,7 @@ An interactive book in **TouchDesigner**: twist your hand in front of the camera
 A printed cube whose faces come alive as animated 3D worlds in **AR** when you point your phone at them. MindAR · Three.js.
 
 #### 📸 AI Photo Booth & National Day apps
-Built at Amjad Watan: an AI photo booth that turns a visitor's photo into a portrait through the eras of the Kingdom, plus companion apps like the *“Rank the Kings of the Kingdom”* quiz.
+Built at Amjad Watan: an AI photo booth that turns a visitor's photo into a portrait through the eras of the Kingdom.
 
 ---
 
