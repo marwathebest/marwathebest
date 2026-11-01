@@ -20,7 +20,16 @@
 ### 🚀 Projects
 
 #### 🧠 [MS SmartScan](https://github.com/MS-SmartScan-Project/Healthon-MS-Project)
-A medical web tool that finds white-matter lesions on MRI scans (MS / small vessel disease). A **YOLO** model flags lesions, the result comes with the diagnostic tests that tell the two apart, and a live patient registry keeps every scan. Python · SQLite · runs offline on a **Raspberry Pi**. Team project, presented at **Healthon 2026**.
+AI that examines a patient's brain MRI and detects **multiple sclerosis (MS)**. A **YOLO** model marks the lesions, the doctor gets the result with a confidence score and the next diagnostic tests, and a live patient registry keeps every scan. Python · SQLite · runs offline on a **Raspberry Pi**. Team project.
+
+#### ⚖️ [Arabic LLM Arena](https://github.com/marwathebest/arabic-llm-arena)
+Which model understands Arabic and Saudi dialect better, **HUMAIN's ALLaM** or **OpenAI**? A blind side-by-side arena: two anonymous models stream their answers, you vote, then the names are revealed. Per-category **Elo** ratings and an **AI judge**. TypeScript · Cloudflare Workers · D1.
+
+#### 🌹 [Rose Book](https://github.com/marwathebest/rose-book-touchdesigner)
+An interactive book in **TouchDesigner**: twist your hand in front of the camera to turn a page, and a rose grows out of it. MediaPipe hand tracking · Python.
+
+#### 🧊 [3D Cube](https://github.com/marwathebest/3D-cube)
+A printed cube whose faces come alive as animated 3D worlds in **AR** when you point your phone at them. MindAR · Three.js.
 
 #### 📸 AI Photo Booth & National Day apps
 Built at Amjad Watan: an AI photo booth that turns a visitor's photo into a portrait through the eras of the Kingdom, plus companion apps like the *“Rank the Kings of the Kingdom”* quiz.
