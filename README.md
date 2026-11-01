@@ -19,7 +19,7 @@
 
 ### 🚀 Projects
 
-#### 🧠 [MS SmartScan](https://github.com/MS-SmartScan-Project/Healthon-MS-Project)
+#### 🧠 [MS SmartScan](https://github.com/marwathebest/MS-SmartScan)
 AI that examines a patient's brain MRI and detects **multiple sclerosis (MS)**. A **YOLO** model marks the lesions, the doctor gets the result with a confidence score and the next diagnostic tests, and a live patient registry keeps every scan. Python · SQLite · runs offline on a **Raspberry Pi**. Team project.
 
 #### ⚖️ [Arabic LLM Arena](https://github.com/marwathebest/arabic-llm-arena)
