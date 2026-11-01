@@ -25,6 +25,9 @@ AI that examines a patient's brain MRI and detects **multiple sclerosis (MS)**. 
 #### ⚖️ [Arabic LLM Arena](https://github.com/marwathebest/arabic-llm-arena)
 Which model understands Arabic and Saudi dialect better, **HUMAIN's ALLaM** or **OpenAI**? A blind side-by-side arena: two anonymous models stream their answers, you vote, then the names are revealed. Per-category **Elo** ratings and an **AI judge**. TypeScript · Cloudflare Workers · D1.
 
+#### ✍️ [Harf fil Hawa](https://github.com/marwathebest/harf-fil-hawa) · [▶ live](https://harf-fil-hawa.onrender.com/)
+Write **Arabic or English** letters in the air with your finger in front of a webcam. **MediaPipe** tracks your hand, a calligraphy brush draws the strokes, and a **CNN I trained with PyTorch** on real handwriting (AHCD + EMNIST) reads each letter, running in plain JavaScript in the browser. Open your palm to erase, and it learns your handwriting from corrections.
+
 #### 🌹 [Rose Book](https://github.com/marwathebest/rose-book-touchdesigner)
 An interactive book in **TouchDesigner**: twist your hand in front of the camera to turn a page, and a rose grows out of it. MediaPipe hand tracking · Python.
 
